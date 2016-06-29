@@ -5,6 +5,8 @@ Agregador de links para estudos
 
 [Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY)
 
+[The complete guide - MongoDB](https://www.livecoding.tv/categories/mongodb/) - English
+
 ## Javascript
 
 [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
