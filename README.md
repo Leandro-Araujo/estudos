@@ -15,6 +15,8 @@ Agregador de links para estudos
 
 [ES6 Serie](https://www.youtube.com/playlist?list=PL77JVjKTJT2gS3pkXAamNG2EakHA53HcS)
 
+[Curso de ECMAScript 2015 (ES6)](https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
+
 ## Node.js
 
 [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
