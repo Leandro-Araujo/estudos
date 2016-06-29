@@ -11,7 +11,7 @@ Agregador de links para estudos
 
 [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R)
 
-
+[ES6 Serie](https://www.youtube.com/playlist?list=PL77JVjKTJT2gS3pkXAamNG2EakHA53HcS)
 
 ## Node.js
 
@@ -24,3 +24,13 @@ Agregador de links para estudos
 [Tudo sobre Angular.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 
 [Bemean - Angular.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df)
+
+## Git e Github
+
+[Git e Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16)
+
+[Git](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
+
+## Vue.js
+
+
