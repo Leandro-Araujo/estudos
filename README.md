@@ -9,16 +9,21 @@ Agregador de links para estudos
 ## Javascript
 
 [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+> Curso básico, porém rico em detalhes, sobre o javascript, compreendendo desde tipos de dados a criação de objetos e herança.
 
 [JavaScript Funcional](https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R)
+> Ensina um novo paradigma de programação utilizando a linguagem JavaScript.
 
 [ES6 Serie](https://www.youtube.com/playlist?list=PL77JVjKTJT2gS3pkXAamNG2EakHA53HcS)
+> Pequenos vídeo avulsa sobre ES2015.
 
 [Curso de ECMAScript 2015 (ES6)](https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
+> Aprendas as novas features disponíveis no EcmaScript 2015.
 
 ## Node.js
 
 [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
+> Segunda parte do curso sobre MEAN.
 
 [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
 
