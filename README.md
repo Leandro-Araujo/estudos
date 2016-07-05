@@ -4,6 +4,7 @@ Agregador de links para estudos
 ## Mongodb
 
 [Bemean - MobgoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY)
+> Conjunto de vídeo aulas sobre o MongoDB, primeira parte de um curso sobre MEAN.
 
 ## Javascript
 
