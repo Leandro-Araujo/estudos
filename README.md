@@ -27,6 +27,11 @@ Agregador de links para estudos
 
 [Node.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)
 
+## Grunt e Gulp
+
+[Grunt vs Gulp](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTkUx1tVVPumohXVMDwfQcV)
+> Aconpanhe essas aulas sobre a diferença entre essas duas ferramentas.
+
 ## Angular.js
 
 [Tudo sobre Angular.js](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
@@ -41,4 +46,5 @@ Agregador de links para estudos
 
 ## Vue.js
 
-
+[Vuejs - Brasil](http://www.vuejs-brasil.com.br/)
+> Site da comunidade brasileira do vue.js, iniciou recentemente, mas já contém uma boa quantidade de artigos.
